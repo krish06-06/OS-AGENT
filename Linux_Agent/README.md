@@ -4,7 +4,7 @@
 ![GNOME](https://img.shields.io/badge/Desktop-GNOME-4A86CF?style=for-the-badge&logo=gnome&logoColor=white)
 ![Wayland/X11](https://img.shields.io/badge/Display-Wayland%20%7C%20X11-orange?style=for-the-badge)
 ![Privacy](https://img.shields.io/badge/Privacy-Zero--Trust-blueviolet?style=for-the-badge)
-![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](LICENSE)
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)
 
 **Linux_Agent** is a privacy-first, autonomous AI orchestration engine designed for modern Linux desktops.  
 It is a **sibling implementation** of the Windows agent, sharing the same philosophy, logic flow, and GUI, while adapting execution to Linux-specific environments such as GNOME, Wayland/X11, and Nix-based shells.
@@ -121,5 +121,6 @@ nix-shell
 
 # Run the agent
 python main.py
+
 
 
